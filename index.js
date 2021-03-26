@@ -1,5 +1,7 @@
 const Discord = require("discord.js");
 
+require('dotenv').config({path : './.env'})
+
 const client = new Discord.Client();
 
 const prefix = "!";
