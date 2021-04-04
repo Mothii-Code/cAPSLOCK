@@ -2,14 +2,13 @@
 bot discord de ✨qualité✨dont le prefix est -
 
 ## Modération
-cAPSLOCK peut kick, ban ou mute des gens à l'aide des commandes
-`-kick @user`
-`-kick @user`
-`-kick @user`
-
 #### Mutes
 
-cAPSLOCK peut mute quelq'un en faisant `-mute @user` mais également mute quelq'un temporairement, pour cela il faut faire :
+cAPSLOCK peut mute quelq'un en faisant
+
+`-mute @user`, qui va mute la personne mentionnée **jusqu'a nouvel ordre**
+
+mais également mute quelq'un temporairement, pour cela il faut faire :
 
 `-tempmute @user` muteras l'utilisateur mentionné pour une durée de **15 minutes**
 
